@@ -16,9 +16,11 @@ I am currently a Systems Engineer at Fidelity.
 
 ***
 ## For Fun 🫧✨
-<!-- alt="gechoe" added for accessibility -->
+<!-- alt="gechoe" added for accessibility 
+     and resource for github profile views count: https://github.com/antonkomarev/github-profile-views-counter
+-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gechoe&color=677CB4&label=Visitors%20%3A%29&style=for-the-badge" alt="Github profile visits for gechoe" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gechoe&color=677CB4&label=Visitors%20Counter%20%3A%2D%29&style=for-the-badge" alt="Github profile visits for gechoe" />
  </p>
 
 <!--
