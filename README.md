@@ -1,4 +1,4 @@
-# Hi, my name is Grace! 👋✨
+### Hi, my name is Grace! 👋✨
 
 I enjoy working on new things to learn and grow!
 
