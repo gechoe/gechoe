@@ -1,12 +1,16 @@
 ### Hi, my name is Grace! 👋✨
 
-I enjoy working on new things to learn and grow!
+I enjoy creating and working on new things to learn and grow!
 
 I am currently a Systems Engineer at Fidelity.
 
-Feel free to reach out: https://www.linkedin.com/in/gracec3/
+🍀 Feel free to reach out: https://www.linkedin.com/in/gracec3/
 
-Pronouns: She/Her
+***
+### Links
+[![portfolio](https://img.shields.io/badge/Portfolio-5A7D67?style=for-the-badge&logoColor=white)]
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gracec3/)
+
 
 <!--
 **gechoe/gechoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
