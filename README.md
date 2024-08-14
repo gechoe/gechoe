@@ -8,7 +8,7 @@ I am currently a Systems Engineer at Fidelity.
 
 ***
 ### Links
-[![portfolio](https://img.shields.io/badge/Portfolio-5A7D67?style=for-the-badge&logoColor=white)]
+![portfolio](https://img.shields.io/badge/Portfolio-5A7D67?style=for-the-badge&logoColor=white)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gracec3/)
 
 
