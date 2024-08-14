@@ -1,4 +1,4 @@
-### Hi, my name is Grace! 👋✨
+## Hi, my name is Grace! 👋✨
 
 I enjoy creating and working on new things to learn and grow!
 
@@ -10,6 +10,7 @@ I am currently a Systems Engineer at Fidelity.
 ### Links
 ![portfolio](https://img.shields.io/badge/Portfolio-5A7D67?style=for-the-badge&logoColor=white)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gracec3/)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/gechoe)
 
 
 <!--
