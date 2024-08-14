@@ -1,4 +1,4 @@
-## Hi, my name is Grace! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px">✨
+## Hi, my name is Grace! <img src="https://giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px" height="22px">✨
 
 I enjoy creating and working on new things to learn and grow!
 
