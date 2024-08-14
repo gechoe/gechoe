@@ -21,7 +21,7 @@ I am currently a Systems Engineer at Fidelity.
      previous badge color: 677CB4 -> dark, muted purpley blue
 -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gechoe&label=Visitors%20Counter%20%3A%2D%29&style=for-the-badge&color=5A7D67" alt="Github profile visits for gechoe"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gechoe&label=Profile%20Visitors%20%3A%2D%29&style=for-the-badge&color=5A7D67" alt="Github profile visits for gechoe"/>
  </p>
 
 <!--
