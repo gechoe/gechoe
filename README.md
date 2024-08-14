@@ -1,10 +1,11 @@
 ## Hi, my name is Grace! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px" height="22px">✨
+<img src="https://media.giphy.com/media/vaOhquJA6NEaOQnzr4/giphy.gif" width="22px" height="22px">
 
 I enjoy creating and working on new things to learn and grow!
 
 I am currently a Systems Engineer at Fidelity.
 
-<img src="https://media.giphy.com/stickers/Cinekid-3d-star-yellow-qXp82ZL3eZbbTUrLyy/giphy.gif" width="22px" height="22px">
+<img src="https://media.giphy.com/media/qXp82ZL3eZbbTUrLyy/giphy.gif" width="22px" height="22px">
 ⭐️ Feel free to reach out: https://www.linkedin.com/in/gracec3/
 
 ***
