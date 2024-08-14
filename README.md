@@ -1,4 +1,4 @@
-## Hi, my name is Grace! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px" height="22px">✨
+# Hi, my name is Grace! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px" height="22px">✨
 
 I enjoy creating and working on new things to learn and grow!
 
@@ -7,13 +7,18 @@ I am currently a Systems Engineer at Fidelity.
 <img src="https://media.giphy.com/media/qXp82ZL3eZbbTUrLyy/giphy.gif" width="22px" height="22px"> Feel free to reach out: https://www.linkedin.com/in/gracec3/
 
 ***
-### Links 🍀✨
+## Links 🍀✨
 <br>
 
 <!-- ![portfolio](https://img.shields.io/badge/Portfolio-5A7D67?style=for-the-badge&logoColor=white) -->
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gracec3/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/gechoe)
 
+***
+## For Fun 🫧✨
+- alt="gechoe" added for accessibility
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gechoe&color=677CB4&label=Visitors%20%3A%29&style=for-the-badge" alt="Github profile visits for gechoe" />
+ </p>
 
 <!--
 **gechoe/gechoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
