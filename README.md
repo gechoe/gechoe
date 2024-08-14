@@ -4,7 +4,7 @@ I enjoy working on new things to learn and grow!
 
 I am currently a Systems Engineer at Fidelity.
 
-How to reach me: https://www.linkedin.com/in/gracec3/
+Feel free to reach out: https://www.linkedin.com/in/gracec3/
 
 Pronouns: She/Her
 
