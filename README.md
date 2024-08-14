@@ -5,6 +5,7 @@ I enjoy creating and working on new things to learn and grow!
 I am currently a Systems Engineer at Fidelity.
 
 ⭐️ Feel free to reach out: https://www.linkedin.com/in/gracec3/
+
 <br>
 
 ***
