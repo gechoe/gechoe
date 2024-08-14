@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, my name is Grace! 👋✨
+
+I enjoy working on new things to learn and grow!
+
+I am currently a Systems Engineer at Fidelity.
+
+How to reach me: https://www.linkedin.com/in/gracec3/
+
+Pronouns: She/Her
 
 <!--
 **gechoe/gechoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
