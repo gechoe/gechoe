@@ -16,7 +16,8 @@ I am currently a Systems Engineer at Fidelity.
 
 ***
 ## For Fun 🫧✨
-- alt="gechoe" added for accessibility
+<!-- alt="gechoe" added for accessibility -->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gechoe&color=677CB4&label=Visitors%20%3A%29&style=for-the-badge" alt="Github profile visits for gechoe" />
  </p>
 
