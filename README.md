@@ -21,10 +21,13 @@ I am currently a Systems Engineer at Fidelity.
      The badge below keeps track of the total number of profile view/visits.
 -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gechoe&label=Profile%20Visits%20%3A%2D%29&style=for-the-badge&color=5A7D67" alt="Github profile visits for gechoe"/>
- </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gechoe&label=Profile%20Visits%20%3A%2D%29&style=for-the-badge&color=5A7D67" alt="Github profile visits for gechoe"/></p>
+
 
 <!--
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gechoe&show_icons=true&locale=en&layout=compact" alt="gechoe" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gechoe&" alt="gechoe" /></p>
+
 **gechoe/gechoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
