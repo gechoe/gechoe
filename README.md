@@ -2,7 +2,7 @@
 
 I enjoy creating and working on new things to learn and grow!
 
-I am currently a Systems Engineer at Fidelity.
+I am currently an Associate Engineer (Systems Engineer & Full Stack Engineer) at Fidelity.
 
 <img src="https://media.giphy.com/media/qXp82ZL3eZbbTUrLyy/giphy.gif" width="22px" height="22px"> Feel free to reach out: https://www.linkedin.com/in/gracec3/
 
