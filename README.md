@@ -10,11 +10,10 @@ I am currently a Software Engineer. :-)
 ## Links 🍀✨
 
 <!-- ![portfolio](https://img.shields.io/badge/Portfolio-5A7D67?style=for-the-badge&logoColor=white) -->
-[![portfolio](https://img.shields.io/badge/⭐️_Portfolio-5A7D67?style=for-the-badge&logoColor=white)](https://gechoe.github.io/)
+<!-- [![portfolio](https://img.shields.io/badge/⭐️_Portfolio-5A7D67?style=for-the-badge&logoColor=white)](https://gechoe.github.io/) -->
+[![business-card](https://img.shields.io/badge/🍀_Business_Card-436687?style=for-the-badge&logoColor=white)](https://gechoe.github.io/card/)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gracec3/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/gechoe)
-
-[![business-card](https://img.shields.io/badge/🍀_Business_Card-436687?style=for-the-badge&logoColor=white)](https://gechoe.github.io/card/)
 
 ***
 ## For Fun 🫧✨
