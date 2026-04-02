@@ -2,9 +2,9 @@
 
 I enjoy creating and working on new things to learn and grow!
 
-I am currently a Software Engineer. :-)
+I am currently a _full-time_ **Software Engineer** & a _part-time_ **master's student**. :-)
 
-<img src="https://media.giphy.com/media/qXp82ZL3eZbbTUrLyy/giphy.gif" width="22px" height="22px"> Feel free to reach out: https://www.linkedin.com/in/gracec3/
+<img src="https://media.giphy.com/media/qXp82ZL3eZbbTUrLyy/giphy.gif" width="22px" height="22px"> Feel free to reach out using the links below!
 
 ***
 ## Links 🍀✨
